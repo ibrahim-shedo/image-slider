@@ -1,16 +1,16 @@
+# React Image Slider
 
-
-React Image Slider
 A simple image slider built with React.
 
-Features
-View a collection of images in a slideshow format.
-Navigate through images using arrow buttons or swipe gestures.
-Customizable slideshow speed and transition effects.
-Installation
-Clone the repository:
-sh
-Copy code
+## Features
+- View a collection of images in a slideshow format.
+- Navigate through images using arrow buttons or swipe gestures.
+- Customizable slideshow speed and transition effects.
+
+## Installation
+
+### Clone the repository:
+```sh
 git clone https://github.com/your_username/project_name.git
 Install dependencies:
 sh
@@ -32,4 +32,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For questions or feedback, you can reach out to Your Name.
-
